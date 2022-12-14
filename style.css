@@ -1,0 +1,49 @@
+
+
+.divbackground{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, #fab96b, #69a2a8);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.divcard{
+    width: 600px;
+    height: 500px;   
+    background-color: #cdeadc;
+    background-image: url(./img/D_NQ_NP_796630-MLB46995823279_082021-O.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px 500px;
+    border-radius: 10px;
+    
+}
+
+#perfume{
+    margin-left: 38vh;
+}
+#info_perfume{
+    margin-right: 1vw;
+    margin-left: 25vw;
+    margin-top: 4vh;
+}
+h1{
+    margin-right: 1vw;
+    margin-left: 25vw;
+    margin-top: 5vh;
+}
+#cart{
+    width: 250px;
+    height: 60px;
+    margin-right: 1vw;
+    margin-left: 25.5vw;
+    margin-top: 8vh;
+    background-color: #69a2a8;
+    border: none;
+    border-radius: 10px;
+}
+body{
+    margin: 0px;    
+}
